@@ -1,0 +1,65 @@
+How to Become a Turing Student
+
+1 Determine if a career in development is right for you
+  1.1 Attend a Try Coding weekend
+    1.1.1 Register for the event online
+    1.1.2 Pay $50
+    1.1.3 Arrive on your scheduled day
+  1.2 Read about careers in software development
+    1.2.1 Read online forums
+    1.2.2 Read articles about software developers
+    1.2.3 Go to job boards to look at software development careers in your area
+      1.2.3.1 Check Indeed
+      1.2.3.2 Check Monster
+      1.2.3.3 Check Ziprecruiter
+  1.3 Talk to software developers about their jobs
+    1.3.1 Ask your friends for advice
+    1.3.2 Discuss career goals with people online
+2 Apply to the program
+  2.1 Go to Turing's website
+  2.2 Navigate to application page
+  2.3 Select program you are interested in
+  2.4 Complete personal information
+  2.5 Upload resume
+  2.6 Complete technical assessment
+    2.6.1 Find a quiet space
+    2.6.2 Answer each question carefully
+    2.6.3 Submit your responses
+  2.7 Await results from Erin
+    If negative?
+      2.7.1 Apply again in 45 days
+    If positive?
+      2.7.1 Schedule interview
+  2.8 Attend interview
+    If in person?
+      2.8.1 Arrive on campus at your scheduled time
+    If online?
+      2.8.1 Join Google Hangouts at your scheduled time
+  2.9 Await results from Erin
+    If negative?
+      2.9.1 Apply again in 45 days
+    If positive?
+      2.9.1 Proceed to step 3
+3 Enroll in the program
+  3.1 Pay $1200 deposit
+  3.2 Complete intake survey
+  3.3 Schedule call with Darren
+  3.4 Await laptop
+    3.4.1 Check UPS delivery date
+    3.4.2 Stay home to sign for delivery
+    3.4.3 Label laptop charger with sharpie
+  3.5 Sign enrollment agreement
+  3.6 Pay tuition 30 days before class start
+    3.6.1 Check start date
+    3.6.2 Subtract 30 days
+    3.6.3 Pay Tuition
+  3.7 Join Slack
+  3.8 Begin Capstone
+    3.8.1 Read Capstone instructions
+    3.8.2 Budget time for Capstone assignments
+    3.8.3 Make note of Capstone due date
+4 Begin the program
+  4.1 Determine your start date
+  4.2 Navigate to Turing School downtown
+  4.3 Enter the building
+  4.4 Enter your classroom
