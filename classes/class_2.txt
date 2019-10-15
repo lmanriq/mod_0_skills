@@ -1,0 +1,13 @@
+Waiter Class
+
+Attributes
+name (string)
+favoriteFood (string)
+manager (boolean)
+wage (integer)
+
+Methods
+changeName (changes name)
+newFavorite (gives new value to favoriteFood)
+promote (if manager == false, change to true)
+increasePay (add to wage)
