@@ -1,0 +1,13 @@
+billyBob instance
+
+Attributes
+name ("Billy Bob")
+favoriteFood ("Meatballs")
+manager (false)
+wage (5.75)
+
+Methods
+changeName (changes name to "William Robert")
+newFavorite (assigns "Pizza" value to favoriteFood)
+promote (changes manager to true)
+increasePay (add 1 to wage, now 6.75)
