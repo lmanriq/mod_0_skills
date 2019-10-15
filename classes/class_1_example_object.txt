@@ -1,0 +1,14 @@
+Menu Instances
+
+chipotleMenu
+
+numberOfItems (15)
+dateModified (10012019)
+entreeNames (["Burrito", "Burrito Bowl", "Tacos"])
+menuFont ("Chipotle Chic")
+laminated (false)
+
+laminate (laminated is now true)
+addEntree (pushes "Quesadilla" to entreeNames array, numberOfItems++)
+printNew (changes dateModified, conditionally could modify all of the other attributes as well)
+updateFont (changes menuFont to "Chipotle Bold")
