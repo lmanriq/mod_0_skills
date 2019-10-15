@@ -1,0 +1,14 @@
+Menu Class
+
+Attributes
+numberOfItems (integer)
+dateModified (integer)
+entreeNames (array of strings)
+menuFont (string)
+laminated (boolean)
+
+Methods
+laminate (if laminated == false, changes to true)
+addEntree (modifies the array for entreeNames, numberOfItems++)
+printNew (changes dateModified, conditionally could modify all of the other attributes as well)
+updateFont (changes menuFont)
